@@ -13,5 +13,10 @@ npm i mongoose
 npm moment
 npm start
 ```
+![Alt text](assets/images/18-nosql-homework-demo-01.gif)
+![Alt text](assets/images/18-nosql-homework-demo-02.gif)
+![Alt text](assets/images/18-nosql-homework-demo-03.gif)
+![Alt text](assets/images/18-nosql-homework-demo-04.gif)
 
 # Video Demonstration
+[Video Demonstration](https://youtu.be/y7-CUb7MrJU)
